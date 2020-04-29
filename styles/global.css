@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html,
+body,
+#__next {
+    height: 100%;
+    width: 100%;
+}
+
+textarea {
+    resize: none;
+    font-family: Consolas, monospace;
+    font-size: 1em !important;
+    background-color: #343333 !important;
+    color: coral !important;
+}
+
+input {
+    font-family: Consolas, monospace;
+    background-color: #343333 !important;
+    color: coral !important;
+}
