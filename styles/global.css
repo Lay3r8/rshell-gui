@@ -10,16 +10,10 @@ body,
     width: 100%;
 }
 
-textarea {
-    resize: none;
-    font-family: Consolas, monospace;
-    font-size: 1em !important;
-    background-color: #343333 !important;
+.title a {
     color: coral !important;
+    text-decoration: none;
+    text-align: center;
 }
 
-input {
-    font-family: Consolas, monospace;
-    background-color: #343333 !important;
-    color: coral !important;
-}
+/*move to components dir*/
